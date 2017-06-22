@@ -3,11 +3,9 @@
 # it **calculateConeVolume()** that calculates the volume of a cone
 # factor based on the Volume Calculator
 # Calculator.net (http://www.calculator.net/volume-calculator.html)
-
-import math
 ## volume = 1/3πr2h
 ## where r is the radius of the base, h is the height
-
+import math
 # Define Function below
 # be sure to return an integer
 def calculateConeVolume(r, h):
